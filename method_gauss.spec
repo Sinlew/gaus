@@ -41,5 +41,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['C:\\Users\\мв\\Desktop\\д\\gaus\\smile.ico'],
+    icon=['C:\\Users\\мв\\Desktop\\д\\gaus\\gaus\\smile.ico'],
 )
